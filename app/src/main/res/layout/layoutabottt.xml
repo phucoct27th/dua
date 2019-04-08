@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="@drawable/hoavan">
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="game bau cua"
+        android:textSize="40dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="25dip"
+        />
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="produce in         "
+        android:textSize="20dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="40dip"
+        />
+
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="kenner                 3EDG46A"
+        android:textSize="20dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="40dip"
+        />
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="developer            hoang trang"
+        android:textSize="20dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="40dip"
+        />
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="model                  1.0.0"
+        android:textSize="20dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="40dip"
+        />
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="address              Thai nguyen-VietNam"
+        android:textSize="20dip"
+        android:layout_marginTop="20dip"
+        android:layout_marginLeft="40dip"
+        />
+    <Button android:layout_width="140dip"
+        android:layout_height="40dip"
+        android:background="@drawable/back"
+        android:layout_marginTop="35dip"
+        android:id="@+id/btnbackabout"
+        android:layout_gravity="center"
+        />
+
+</LinearLayout>
